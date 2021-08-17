@@ -1,0 +1,25 @@
+{
+  "name": "te-workshop",
+  "version": "1.0.0",
+  "description": "Code for 9/8/2021 WT TE workshop with Chris Sellek.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsellek/wt-te-workshop.git"
+  },
+  "keywords": [
+    "workshop",
+    "willowtree",
+    "test",
+    "engineers"
+  ],
+  "author": "Chris Sellek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamsellek/wt-te-workshop/issues"
+  },
+  "homepage": "https://github.com/iamsellek/wt-te-workshop#readme"
+}
