@@ -1,13 +1,5 @@
 const sum = (x, y) => x + y;
 
-const safeSum = (x, y) => {
-  if (typeof x !== 'number' || typeof y !== 'number') {
-    return undefined;
-  }
-
-  return x + y;
-};
-
 const getStageOfChildhood = age => {
   if (age < 1) {
     return 'baby';
